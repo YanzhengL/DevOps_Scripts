@@ -1,0 +1,16 @@
+git init
+git add origin ssh-url
+git push
+git pull
+
+git clone
+
+git checkout branchname
+git switch branchname
+
+git checkout file name 
+
+git status
+
+git add .
+git commit -m 'commit information'
